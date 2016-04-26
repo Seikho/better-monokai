@@ -79,7 +79,7 @@
 		</dict>		
 		<dict>
 			<key>name</key>
-			<string>Interface property interface</string>
+			<string>Interface nested property interface</string>
 			<key>scope</key>
 			<string>token.block.body.declaration.entity.field.member.meta.name.object.parameters.type.ts</string>
 			<key>settings</key>
@@ -90,9 +90,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Interface property interface generic</string>
+			<string>Interface top-level property interface</string>
+			<key>scope</key>
+			<string>token.body.declaration.entity.field.meta.name.object.parameters.type.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>Interface nested property interface generic</string>
 			<key>scope</key>
 			<string>token.block.body.declaration.field.member.meta.name.object.parameters.type.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Interface top-level property interface generic</string>
+			<key>scope</key>
+			<string>token.body.declaration.field.meta.name.object.parameters.type.ts</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
