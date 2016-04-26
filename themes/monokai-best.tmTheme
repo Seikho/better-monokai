@@ -76,6 +76,28 @@
 				<key>foreground</key>
 				<string>#9BE5E8</string>
 			</dict>
+		</dict>		
+		<dict>
+			<key>name</key>
+			<string>Interface property interface</string>
+			<key>scope</key>
+			<string>token.block.body.declaration.entity.field.member.meta.name.object.parameters.type.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Interface property interface generic</string>
+			<key>scope</key>
+			<string>token.block.body.declaration.field.member.meta.name.object.parameters.type.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
