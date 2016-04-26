@@ -65,10 +65,10 @@
 				<key>foreground</key>
 				<string>#E6DB74</string>
 			</dict>
-		</dict>
+		</dict>				
 		<dict>
 			<key>name</key>
-			<string>String</string>
+			<string>Variable declaration</string>
 			<key>scope</key>
 			<string>token.expr.meta.var.var-single-variable.variable.ts</string>
 			<key>settings</key>
@@ -77,7 +77,6 @@
 				<string>#9BE5E8</string>
 			</dict>
 		</dict>
-		token expr meta var var-single-variable variable ts
 		<dict>
 			<key>name</key>
 			<string>Number</string>
