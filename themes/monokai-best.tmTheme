@@ -68,6 +68,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>token.expr.meta.var.var-single-variable.variable.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9BE5E8</string>
+			</dict>
+		</dict>
+		token expr meta var var-single-variable variable ts
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
