@@ -1,6 +1,6 @@
 {
-    "name": "theme-monokaigreat",
-    "displayName": "make-monokai-great-again",
+    "name": "theme-better-monokai",
+    "displayName": "better-monokai",
     "description": "Monokai Seikho",
     "version": "0.0.1",
     "publisher": "seikho",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Monokai Amended",
+                "label": "Better Monokai",
                 "uiTheme": "vs-dark",
-                "path": "./themes/monokai-best.tmTheme"
+                "path": "./themes/better-monokai.tmTheme"
             }
         ]
     }
